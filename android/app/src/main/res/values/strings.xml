@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CARTZY</string>
+    <string name="title_activity_main">CARTZY</string>
+    <string name="package_name">com.cartzy.app</string>
+    <string name="custom_url_scheme">com.cartzy.app</string>
+</resources>

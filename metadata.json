@@ -1,0 +1,8 @@
+{
+  "name": "CARTZY",
+  "description": "Shop Smart. Live Better. Full-stack Indian e-commerce shopping application with Firebase, Razorpay checkout, order tracking, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
