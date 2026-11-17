@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /login
+Disallow: /register
+Disallow: /checkout
+Disallow: /cart
+Disallow: /wishlist
+Disallow: /account
+Disallow: /orders
+Disallow: /admin
+
+Sitemap: https://cartzy-dun.vercel.app/sitemap.xml
